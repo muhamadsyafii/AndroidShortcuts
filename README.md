@@ -12,12 +12,12 @@ This project is maintained by:
 
 * [Muhamad Syafii](http://github.com/muhamadsyafii)
 
-### Feature
+## Series
 
 |               | 
 | ------------- | 
 | * Movie |
-| * Seies |
+| * Series |
 | * Profile |
 
 ## Installation
