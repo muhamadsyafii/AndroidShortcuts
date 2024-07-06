@@ -8,7 +8,6 @@ This is project shortcuts implement Shortcuts Manager SDK
 
 ### Feature ###
 
-| ------------- | 
 | * Movie |
 | * Seies |
 | * Profile |
