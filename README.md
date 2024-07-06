@@ -12,7 +12,7 @@ This project is maintained by:
 
 * [Muhamad Syafii](http://github.com/muhamadsyafii)
 
-## Series
+## Features
 
 |               | 
 | ------------- | 
