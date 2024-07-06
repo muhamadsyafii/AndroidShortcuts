@@ -8,6 +8,8 @@ This is project shortcuts implement Shortcuts Manager SDK
 
 ### Feature ###
 
+|               | 
+| ------------- | 
 | * Movie |
 | * Seies |
 | * Profile |
@@ -31,5 +33,10 @@ git clone https://github.com/muhamadsyafii/AndroidShortcuts.git
 
 ## Screenshot apps
 
-![App Screens Shortcuts](screenshot/shortcuts.png)
-![App Screens Shortcuts Pin](screenshot/pin.png)
+<!-- ![App Screens Shortcuts](screenshot/shortcuts.png) -->
+<!-- ![App Screens Shortcuts Pin](screenshot/pin.png) -->
+
+<div style="display: flex; flex-direction: row;">
+  <img src="screenshot/shortcuts.png" alt="App Screens Shortcuts" style="width: 45%; margin-right: 10px;">
+  <img src="screenshot/pin.png" alt="App Screens Shortcuts Pin" style="width: 45%;">
+</div>
