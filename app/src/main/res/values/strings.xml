@@ -1,3 +1,8 @@
 <resources>
   <string name="app_name">AndroidShortcuts</string>
+
+  <string name="shortcut_one_short_label">Watch Movies</string>
+  <string name="shortcut_one_long_label">Watch movies best quality</string>
+  <string name="shortcut_two_short_label">Watch Series</string>
+  <string name="shortcut_two_long_label">Watch series best quality</string>
 </resources>

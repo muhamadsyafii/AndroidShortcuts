@@ -1,4 +1,4 @@
-package id.syafii.androidshortcuts.presentation.ui
+package id.syafii.androidshortcuts.presentation.ui.main
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
