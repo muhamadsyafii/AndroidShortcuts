@@ -1,4 +1,4 @@
-# TestBankMandiri-android
+# AndroidShortcuts
 This is project shortcuts implement Shortcuts Manager SDK
 
 ### Pre-requisites ###
@@ -9,11 +9,17 @@ This is project shortcuts implement Shortcuts Manager SDK
 ### Feature ###
 
 | ------------- | 
-| ------------- | 
 | * Movie |
 | * Seies |
 | * Profile |
-|
+
+## Installation
+
+Clone this repository and import into **Android Studio**
+
+```bash
+git clone https://github.com/muhamadsyafii/AndroidShortcuts.git
+```
 
 ## How I run the app?
 
@@ -23,3 +29,8 @@ This is project shortcuts implement Shortcuts Manager SDK
 - Run app in your emulator or physical device
 
 ![App Screens](screenshot/pinned-shortcuts.png)
+
+## Screenshot apps
+
+![App Screens Shortcuts](screenshot/shortcuts.png)
+![App Screens Shortcuts Pin](screenshot/pin.png)
