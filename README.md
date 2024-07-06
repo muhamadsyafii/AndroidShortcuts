@@ -6,6 +6,12 @@ This is project shortcuts implement Shortcuts Manager SDK
 * Minimum SDK 24
 * Maximum SDK 34
 
+## Maintainers
+
+This project is maintained by:
+
+* [Muhamad Syafii](http://github.com/muhamadsyafii)
+
 ### Feature ###
 
 |               | 
